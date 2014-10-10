@@ -12,7 +12,6 @@ import java.sql.Statement;
 import com.opensymphony.xwork2.ActionSupport;
 
 
-/**/
 
 public class GetBook extends ActionSupport{
 	
